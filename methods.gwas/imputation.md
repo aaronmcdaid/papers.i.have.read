@@ -1,6 +1,5 @@
+### Evaluation and application of summary statistic imputation to discover new height-associated loci
 PLOS Genetics
-
-Evaluation and application of summary statistic imputation to discover new height-associated loci
 
 Sina Rüeger, Aaron McDaid, Zoltán Kutalik
 
